@@ -1,0 +1,41 @@
+.orders {
+  padding: 20px 80px;
+}
+
+.orders > h1 {
+  margin: 30px 0;
+  background: #cfa22e;
+  padding-left: 20px;
+}
+
+.orders > p {
+  font-size: 25px;
+  font-weight: 800;
+  padding: 20px;
+}
+
+.orders__1 > p {
+  padding: 10px;
+  font-weight: 500;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.orders > a {
+  text-align: center;
+  background-color: #cfa22e;
+  padding: 20px;
+  margin-left: 400px;
+  margin-right: 300px;
+  font-weight: 700;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.orders__3 {
+  text-align: center;
+  padding: 15px;
+  font-size: 20px;
+  padding-top: 30px;
+}
